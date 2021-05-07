@@ -1,0 +1,13 @@
+C:\Users\erik0\source\repos\GestaoEquipamentosHerdado\GestaoEquipamentosHerdado\bin\Debug\netcoreapp3.1\GestaoEquipamentosHerdado.exe
+C:\Users\erik0\source\repos\GestaoEquipamentosHerdado\GestaoEquipamentosHerdado\bin\Debug\netcoreapp3.1\GestaoEquipamentosHerdado.deps.json
+C:\Users\erik0\source\repos\GestaoEquipamentosHerdado\GestaoEquipamentosHerdado\bin\Debug\netcoreapp3.1\GestaoEquipamentosHerdado.runtimeconfig.json
+C:\Users\erik0\source\repos\GestaoEquipamentosHerdado\GestaoEquipamentosHerdado\bin\Debug\netcoreapp3.1\GestaoEquipamentosHerdado.runtimeconfig.dev.json
+C:\Users\erik0\source\repos\GestaoEquipamentosHerdado\GestaoEquipamentosHerdado\bin\Debug\netcoreapp3.1\GestaoEquipamentosHerdado.dll
+C:\Users\erik0\source\repos\GestaoEquipamentosHerdado\GestaoEquipamentosHerdado\bin\Debug\netcoreapp3.1\GestaoEquipamentosHerdado.pdb
+C:\Users\erik0\source\repos\GestaoEquipamentosHerdado\GestaoEquipamentosHerdado\obj\Debug\netcoreapp3.1\GestaoEquipamentosHerdado.csprojAssemblyReference.cache
+C:\Users\erik0\source\repos\GestaoEquipamentosHerdado\GestaoEquipamentosHerdado\obj\Debug\netcoreapp3.1\GestaoEquipamentosHerdado.AssemblyInfoInputs.cache
+C:\Users\erik0\source\repos\GestaoEquipamentosHerdado\GestaoEquipamentosHerdado\obj\Debug\netcoreapp3.1\GestaoEquipamentosHerdado.AssemblyInfo.cs
+C:\Users\erik0\source\repos\GestaoEquipamentosHerdado\GestaoEquipamentosHerdado\obj\Debug\netcoreapp3.1\GestaoEquipamentosHerdado.csproj.CoreCompileInputs.cache
+C:\Users\erik0\source\repos\GestaoEquipamentosHerdado\GestaoEquipamentosHerdado\obj\Debug\netcoreapp3.1\GestaoEquipamentosHerdado.dll
+C:\Users\erik0\source\repos\GestaoEquipamentosHerdado\GestaoEquipamentosHerdado\obj\Debug\netcoreapp3.1\GestaoEquipamentosHerdado.pdb
+C:\Users\erik0\source\repos\GestaoEquipamentosHerdado\GestaoEquipamentosHerdado\obj\Debug\netcoreapp3.1\GestaoEquipamentosHerdado.genruntimeconfig.cache
